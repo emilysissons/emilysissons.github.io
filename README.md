@@ -6,7 +6,7 @@ I am a Research Assistant in Urban Mobilities within the Transport Studies Depar
   src="https://emilysissons.github.io/Test.pdf"
   type="application/pdf"
   width="100%"
-  height="800px"
+  height="600px"
 />
 
 
